@@ -1,5 +1,3 @@
-
-
 import { FaStar } from "react-icons/fa";
 
 const reviews = [
@@ -98,11 +96,12 @@ const Testimonials = () => {
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/example_video_id"
-            title="Student Testimonial"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
+            src="https://www.youtube.com/embed/ifG2fO-TYF8?si=5q0a9bAojLqgykJc"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
           ></iframe>
         </div>
       </div>
